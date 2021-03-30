@@ -1,0 +1,14 @@
+C:\Users\sinte\source\repos\C968 - Inventory Application\bin\Debug\C968 - Inventory Application.exe.config
+C:\Users\sinte\source\repos\C968 - Inventory Application\bin\Debug\C968 - Inventory Application.exe
+C:\Users\sinte\source\repos\C968 - Inventory Application\bin\Debug\C968 - Inventory Application.pdb
+C:\Users\sinte\source\repos\C968 - Inventory Application\obj\Debug\C968 - Inventory Application.csprojAssemblyReference.cache
+C:\Users\sinte\source\repos\C968 - Inventory Application\obj\Debug\C968___Inventory_Application.mainScreen.resources
+C:\Users\sinte\source\repos\C968 - Inventory Application\obj\Debug\C968___Inventory_Application.Properties.Resources.resources
+C:\Users\sinte\source\repos\C968 - Inventory Application\obj\Debug\C968 - Inventory Application.csproj.GenerateResource.cache
+C:\Users\sinte\source\repos\C968 - Inventory Application\obj\Debug\C968 - Inventory Application.csproj.CoreCompileInputs.cache
+C:\Users\sinte\source\repos\C968 - Inventory Application\obj\Debug\C968 - Inventory Application.exe
+C:\Users\sinte\source\repos\C968 - Inventory Application\obj\Debug\C968 - Inventory Application.pdb
+C:\Users\sinte\source\repos\C968 - Inventory Application\obj\Debug\C968___Inventory_Application.AddPartScreen.resources
+C:\Users\sinte\source\repos\C968 - Inventory Application\obj\Debug\C968___Inventory_Application.ModifyPartScreen.resources
+C:\Users\sinte\source\repos\C968 - Inventory Application\obj\Debug\C968___Inventory_Application.ModifyProductScreen.resources
+C:\Users\sinte\source\repos\C968 - Inventory Application\obj\Debug\C968___Inventory_Application.AddProductScreen.resources
